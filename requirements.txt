@@ -1,0 +1,4 @@
+# Python libraries
+    pandas
+    numpy
+    scikit-learn
