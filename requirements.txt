@@ -1,4 +1,6 @@
 # Python libraries
     pandas
+    seaborn
+    matplotlib
     scikit-learn
     xgboost
