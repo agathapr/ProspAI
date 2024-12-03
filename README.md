@@ -1,5 +1,5 @@
 # ProspAI
-Projeto de IA para predição de comportamento de clientes para o app ProspAI construído para a Plusoft.
+Projeto de IA para predição de comportamento de clientes para o app ProspAI construído para a Plusoft no Challenge FIAP 2024.
 
 ### Integrantes ###
 Agatha Pires - RM552247 - 2TDSPH <br>
